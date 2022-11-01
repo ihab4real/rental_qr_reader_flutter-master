@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "357168836558",
+    "firebase_url": "https://car-rental-e0f1d-default-rtdb.firebaseio.com",
+    "project_id": "car-rental-e0f1d",
+    "storage_bucket": "car-rental-e0f1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357168836558:android:a4ed43b951f8ca607d059f",
+        "android_client_info": {
+          "package_name": "com.example.car_rental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357168836558-ika54tu96sab573fc860ohrtqdvbo29n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKmRu4wuttGtc8tq2YISvIqGCOB_P2zeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357168836558-ika54tu96sab573fc860ohrtqdvbo29n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357168836558:android:86fb8e2404805fe97d059f",
+        "android_client_info": {
+          "package_name": "com.example.qr_reader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357168836558-ika54tu96sab573fc860ohrtqdvbo29n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKmRu4wuttGtc8tq2YISvIqGCOB_P2zeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357168836558-ika54tu96sab573fc860ohrtqdvbo29n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
